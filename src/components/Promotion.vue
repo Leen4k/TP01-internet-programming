@@ -6,7 +6,7 @@ export default {
         name: String,
         bgButton: String, // Change the prop name to "background"
         imageUrl: String,
-        buttonText: String
+        buttonText: String,
     },
     components: { Button }
 }
